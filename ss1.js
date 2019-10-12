@@ -1,4 +1,11 @@
 // reapeat in horizontal
+input.onButtonPressed(Button.B, function () { //B to stop
+    led.enable(false)
+})
+input.onButtonPressed(Button.A, function () {  // A to start
+    led.enable(true)
+
+
 basic.forever(function () {
     led.plotBrightness(0, 4, 47)
     led.plotBrightness(2, 4, 136)
