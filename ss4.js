@@ -1,3 +1,8 @@
+input.onButtonPressed(Button.B, function () { //B to stop
+    led.enable(false)
+})
+input.onButtonPressed(Button.A, function () {  // A to start
+    led.enable(true)
 input.onGesture(Gesture.LogoUp, function () {
     screenNumber = 2
 })
