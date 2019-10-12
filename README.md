@@ -109,8 +109,7 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
-
+Screensaver 1: wave repeet at horizontial line and stop when push A button
 ### SS 2 
 
 _[And so on]_
