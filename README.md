@@ -117,7 +117,7 @@ Screensaver 3: wave go in / direction 5 times
 ### SS 4
 Screensaver 4: wave of my name
 ### SS 5
-Screensaver 5: 
+Screensaver 5: square box 
 
 
 _[And so on]_
