@@ -1,3 +1,4 @@
+// reapeat in horizontal
 basic.forever(function () {
     led.plotBrightness(0, 4, 47)
     led.plotBrightness(2, 4, 136)
