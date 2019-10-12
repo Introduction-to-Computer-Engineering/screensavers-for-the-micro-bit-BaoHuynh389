@@ -113,11 +113,11 @@ Screensaver 1: wave repeet at horizontial line and stop when push A button
 ### SS 2 
 Screensaver 2:  windmill spinning and complete 1 node to its spinning
 ### SS 3
-
+Screensaver 3: wave go in / direction 5 times
 ### SS 4
-
+Screensaver 4: wave of my name
 ### SS 5
-
+Screensaver 5: 
 
 
 _[And so on]_
