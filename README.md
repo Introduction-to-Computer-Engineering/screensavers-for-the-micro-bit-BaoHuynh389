@@ -111,6 +111,14 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 Screensaver 1: wave repeet at horizontial line and stop when push A button
 ### SS 2 
+Screensaver 2:  windmill spinning and complete 1 node to its spinning
+### SS 3
+
+### SS 4
+
+### SS 5
+
+
 
 _[And so on]_
 
