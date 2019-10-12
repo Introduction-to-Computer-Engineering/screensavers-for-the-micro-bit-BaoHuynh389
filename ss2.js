@@ -1,3 +1,10 @@
+input.onButtonPressed(Button.B, function () { //B to stop
+    led.enable(false)
+})
+input.onButtonPressed(Button.A, function () {  // A to start
+    led.enable(true)
+
+
 basic.forever(function () {
     led.plotBrightness(1, 1, 228)
     led.plot(0, 2)
